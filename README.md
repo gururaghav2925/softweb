@@ -28,16 +28,11 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-```
-123
-```
 
 
 ## OUTPUT:
 
-```
-123
-```
+
 
 
 ## RESULT:
